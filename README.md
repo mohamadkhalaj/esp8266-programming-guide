@@ -4,7 +4,7 @@
 ### TX -> TX
 ### RX -> RX
 
-### 100 -> Gnd
+### IO0 -> Gnd
 ### GND -> Gnd
 
 ### RST -> 3.3V
@@ -15,4 +15,4 @@
 ### RESET -> GND
 
 # Normal mode
-Just remove 100 from Gnd
+Just remove IO0 from Gnd
