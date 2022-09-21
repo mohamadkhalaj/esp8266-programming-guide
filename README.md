@@ -1,5 +1,5 @@
 # Esp8266 programming guide
-For programming your ESP8622 with arduino, connect pins like this:
+For programming your ESP8266 with arduino, connect pins like this:
 ### ESP8266 | Arduino
 (ESP left and arduino right)
 ```
